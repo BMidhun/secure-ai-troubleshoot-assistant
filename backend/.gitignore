@@ -1,0 +1,6 @@
+.env
+__pycache__
+.venv
+.pytest_cache
+db.json
+faiss_index
